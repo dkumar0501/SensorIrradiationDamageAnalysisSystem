@@ -1,4 +1,4 @@
-<h1 align="left">AutomatedIrradiationDamageAssessmentSystem
+<h1 align="left">Automated Irradiation Damage Assessment System
 </h1>
 
 <p align="left">
