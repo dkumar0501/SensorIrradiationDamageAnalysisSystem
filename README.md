@@ -1,1 +1,20 @@
-# AutomatedPreAndPostIrradiationDataProcessingAndDamageEvaluationPipeline
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e8e6e3b-fc4d-4a77-a81f-2a4f64e5b7a3" alt="AIDAS Banner" width="90%">
+</p>
+
+<h1 align="center">Automated Irradiation Damage Assessment System (AIDAS)</h1>
+
+<p align="center">
+  <b>Evaluating sensor degradation under extreme radiation environments using data-driven analysis and ML modeling</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit%20Learn-orange?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-green?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research-CERN%20IRRAD%20Facility-purple?style=flat-square&logo=researchgate&logoColor=white"/>
+</p>
+
+---
+
