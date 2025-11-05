@@ -12,14 +12,12 @@
   <img src="https://img.shields.io/badge/CERN-IRRAD%20Compatible-9cf?logo=cern&logoColor=white" alt="CERN IRRAD">
 </p>
 
----
 
 ## 📘 Overview
 
 This project is a **Python-based automated analysis system** designed to **evaluate sensor degradation under extreme radiation environments**.  
 It enables **synthetic irradiation data generation**, **data preprocessing**, **visualization**, and **radiation damage modeling** to support **radiation-hardness studies** and material reliability assessments.
 
----
 
 ## 🚀 Features
 
@@ -27,9 +25,8 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 - Synthetic dataset generation with noise modeling  
 - Statistical and machine learning-based degradation analysis  
 - Interactive visualizations using Matplotlib and Plotly  
-- Radiation damage modeling for dose-response relationships  
-
----
+- Radiation damage modeling for dose-response relationships
+  
 
 ## 🧠 Technical Overview
 
@@ -41,7 +38,6 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 | **Visualization** | Multi-layered plots of signal degradation and noise evolution |
 | **Output** | Summary metrics, graphs, and model-based degradation reports |
 
----
 
 ## 🧩 Future Enhancements
 
@@ -50,7 +46,6 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 - Development of a **Streamlit-based interactive dashboard**  
 - Expansion to **simulation coupling with Geant4 or FLUKA**
 
----
 
 ## 👨‍💻 Author
 
