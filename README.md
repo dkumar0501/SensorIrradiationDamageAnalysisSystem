@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/8e8e6e3b-fc4d-4a77-a81f-2a4f64e5b7a3" alt="AIDAS Banner" width="90%">
-</p>
+
 
 <h1 align="left">Automated Irradiation Damage Assessment System (AIDAS)</h1>
 
