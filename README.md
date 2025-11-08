@@ -42,8 +42,7 @@ It preprocesses data, visualizes detector performance differences, and models ra
 
 ##  📷 Project Live Working
 
-video
-
+https://github.com/user-attachments/assets/331ebfd5-0802-4e47-b8e2-cbfc6618d200
 
 ## 🧩 Future Enhancements
 
