@@ -3,7 +3,7 @@
  
 <p align="left">
   <strong>Novel Sensor • Python • Machine Learning • Data Analysis • CERN IRRAD</strong> 
-</p> 
+</p>  
  
 <!-- Badges --> 
 <p align="left">
